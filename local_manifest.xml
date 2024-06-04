@@ -6,7 +6,7 @@
 	<remote name="inexdroid"
 	fetch="https://github.com/inexdroid" />
 	<remote name="bibi09456"
-	fetch="https://github.com/bibi09456" />
+	fetch="ssh://git@github.com/bibi09456" />
 
 	<project path="device/asus/X00TD" name="android_device_asus_X00TD" remote="Tiktodz" revision="matrixx-4.4" />
 	<project path="vendor/asus" name="android_vendor_asus_X00TD" remote="Tiktodz" revision="udc-4.4" />
